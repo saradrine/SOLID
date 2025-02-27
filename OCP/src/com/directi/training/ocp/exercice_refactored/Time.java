@@ -9,11 +9,11 @@ public class Time implements Resource {
 
     @Override
     public void markResourceSlotBusy() {
-
+        // Implementation of the mark time slot busy logic
     }
 
     @Override
     public void markResourceSlotFree() {
-
+        // Implementation of the mark time slot free logic
     }
 }

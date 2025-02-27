@@ -9,11 +9,11 @@ public class Space implements Resource {
 
     @Override
     public void markResourceSlotBusy() {
-
+        // Implementation of the mark space slot busy logic
     }
 
     @Override
     public void markResourceSlotFree() {
-
+        // Implementation of the mark space slot free logic
     }
 }
